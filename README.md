@@ -38,7 +38,7 @@ pip install gTTS
 ### Example
 
 ```bash
-python main.py
+python main.py ```
 
 After running the script, the following output files will be generated:
 
