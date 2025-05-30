@@ -31,7 +31,7 @@ pip install gTTS
 ```
 ## Usage
 
-1. Provide the LaTeX source code of the scientific paper as an input to the program.
+1. Provide the LaTeX source code of the scientific paper as an ```input_text.txt``` to the program.
 2. The program will clean the LaTeX code by removing unwanted sections and formatting.
 3. The cleaned text will be converted into speech and saved as an MP3 file.
 
