@@ -42,9 +42,9 @@ python main.py
 ```
 After running the script, the following output files will be generated:
 
-restructured_text.txt: Cleaned and restructured text.
+```restructured_text.txt```: Cleaned and restructured text.
 
-output_speech.mp3: Spoken audio of the cleaned text.
+```output_speech.mp3```: Spoken audio of the cleaned text.
 
 The MP3 file can be played using any standard audio player.
 
