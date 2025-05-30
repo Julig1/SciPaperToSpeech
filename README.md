@@ -28,7 +28,7 @@ Install required packages using pip:
 
 ```bash
 pip install gTTS
-
+```
 ## Usage
 
 1. Provide the LaTeX source code of the scientific paper as an input to the program.
